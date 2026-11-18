@@ -165,6 +165,20 @@ const PeopleBehindWCT = () => {
       accent: "purple",
       type: "frontend",
     },
+     {
+      image: "/ll.png",
+      name: "Qasid Hussain",
+      role: "Ux,Ui Designer & Frammer Developer",
+      description:
+        "Designs and builds intuitive UI/UX experiences and responsive websites using Framer, translating design concepts into interactive, visually engaging digital interfaces.",
+      skills: [
+        "UI Interface",
+        "UX Experience",
+        "Framer Developer",
+      ],
+      accent: "blue",
+      type: "ux,ui designer",
+    },
   ];
 
   /* =========================================================
